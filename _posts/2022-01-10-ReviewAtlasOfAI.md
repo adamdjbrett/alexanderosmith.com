@@ -3,7 +3,7 @@ layout: post
 title:  "Atlas of AI"
 date:   2022-01-10 05:00:00 +0000
 image: "theplayground2.jpg"
-categories: Literature Review
+categories: Review
 tags:
   - Blog
   - Book Review
