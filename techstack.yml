@@ -1,0 +1,123 @@
+repo_name: adamdjbrett/alexanderosmith.com
+report_id: e8f4f388eafa2bd3fc33e6f922e45348
+repo_type: Public
+timestamp: '2023-11-10T00:41:19+00:00'
+requested_by: adamdjbrett
+provider: github
+branch: master
+detected_tools_count: 10
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: Gemfile
+  last_updated_by: Artem Sheludko
+  last_updated_on: 2018-06-19 12:46:21.000000000 Z
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source: netlify.toml
+  last_updated_by: adamdjbrett
+  last_updated_on: 2020-03-18 06:56:19.000000000 Z
+- name: jekyll-feed
+  description: A Jekyll plugin to generate an Atom feed of your Jekyll posts
+  package_url: https://rubygems.org/jekyll-feed
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19149/default_b0a1033a29112f6f50b1dd3157e5fbf94dd2778a.png
+  detection_source: Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2023-01-06 23:53:03.000000000 Z
+- name: jekyll-paginate
+  description: Built-in Pagination Generator for Jekyll
+  package_url: https://rubygems.org/jekyll-paginate
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source: Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2023-01-06 23:53:03.000000000 Z
+- name: jekyll-seo-tag
+  description: A Jekyll plugin to add metadata tags for search engines and social
+    networks to better index and display your site's content
+  package_url: https://rubygems.org/jekyll-seo-tag
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19137/default_302643c2b99caa1c440c0d4aa23d4230e1cc78e3.png
+  detection_source: Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2023-01-06 23:53:03.000000000 Z
+- name: jekyll-sitemap
+  description: Automatically generate a sitemap.xml for your Jekyll site
+  package_url: https://rubygems.org/jekyll-sitemap
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19321/default_31ccb7684f50eae9f0c40cb9965cc32299f8935e.png
+  detection_source: Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2023-01-06 23:53:03.000000000 Z
+- name: tzinfo-data
+  description: TZInfo::Data contains data from the IANA Time Zone database packaged
+    as Ruby modules for use with TZInfo
+  package_url: https://rubygems.org/tzinfo-data
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source: Gemfile
+  last_updated_by: adamdjbrett
+  last_updated_on: 2023-01-06 21:59:56.000000000 Z
